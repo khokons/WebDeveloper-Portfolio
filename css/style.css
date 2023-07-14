@@ -67,6 +67,8 @@ nav li a {
   background-position: bottom right,top left;
 }
 
+/* Main_Banner_start------------ */
+
 .banner {
   padding: 30px 30px 0px 150px;
   display: flex;
@@ -115,6 +117,11 @@ nav li a {
   font-weight: 700;
   padding: 15px 35px;
 }
+
+
+
+
+/* MAin_banner_End=============== */
 
 /* Header_Section_End=============== */
 

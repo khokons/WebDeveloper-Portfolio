@@ -1,0 +1,67 @@
+@media screen and (max-width: 576px){
+    nav{
+        flex-direction: column;
+        margin: auto;
+      
+     }
+    
+ .Header{
+    background-image: none;
+ }
+
+ .banner{
+    flex-direction: column-reverse;
+    padding: 100px 30px 0px 100px;
+ }
+
+ .banner_title {
+    font-size: 40px;
+ }
+ .btn_second{
+    margin-top: 30px;
+    margin-left: 25px;
+ }
+
+ .banner .profile_pic {
+    width: 100%;
+}
+
+.About{
+    padding: 20px;
+ }
+
+ .skill_container, .resume_container, .about_info_container{
+    flex-direction: column;
+ }
+
+ #what_i_do{
+    padding: 10px;
+ }
+
+ .download_cv{
+    margin-top: 70px;
+ }
+
+ footer{
+    flex-direction: column;
+    padding: 0 10px;
+    gap: 50px;
+    text-align: center;
+ } 
+
+ .footer_colum{
+    width: 100%;
+ }
+
+ .contact input[type="text"], .contact input[type="email"],
+ textarea{
+    width: 50%;
+    margin: auto;
+  
+ }
+
+
+
+
+ 
+}
